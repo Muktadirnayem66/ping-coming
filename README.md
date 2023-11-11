@@ -26,10 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![image 1](https://github.com/Muktadirnayem66/Ping-coming-soon-page/assets/76747765/6e15ed57-e91a-4cfa-a0cf-03e5d9e579ca)
-![image 2](https://github.com/Muktadirnayem66/Ping-coming-soon-page/assets/76747765/684707c8-c346-4120-b194-cc245e8c2449)
 
-![image 3](https://github.com/Muktadirnayem66/Ping-coming-soon-page/assets/76747765/e480f7db-63f8-4269-b066-a963b5a7f1b6)
 
 
 ### Links
