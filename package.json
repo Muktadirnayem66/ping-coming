@@ -1,9 +1,12 @@
 {
+  "homepage": "https://Muktadirnayem66.github.io/ping-coming",
   "name": "pingproject",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy":"yarn run build",
+    "deploy":"gh-pages -d dist",
     "dev": "vite",
     "build": "tailwindcss -i ./src/tailwind.css -o ./dist/output.css --watch",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
