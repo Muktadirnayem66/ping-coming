@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import images from '../images/illustration-dashboard.png'
 import Icons from './components/Icons';
 
 const App = () => {
@@ -46,7 +46,7 @@ const validateEmail = (email)=>{
        </div>
        {isError && <div className={`${isError? " text-red-500 w-full text-center -ml-28 -mt-3 mb-10 text-sm sm:-mt-20 sm:ml-1":"" }`}>{errorMessage}</div>}
         <div className='flex justify-center items-center'>
-        <img className="w-1/2 mt-4 sm:w-80 sm:mt-16" src="../images/illustration-dashboard.png"  alt="Dashboard Image" />
+        <img className="w-1/2 mt-4 sm:w-80 sm:mt-16" src={images}  alt="Dashboard Image" />
         </div>
 
 
